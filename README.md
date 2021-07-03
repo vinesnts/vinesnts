@@ -4,6 +4,7 @@
     programar e criar coisas novas, sou entusiasta de design UI/UX e apaixonado por tecnologia, além disso, adoro ler e aprender sobre
     astronomia.
 </p>
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="480" />
 <h3>👨‍💻 Minhas habilidades</h3>
 <table border="0">
         <tr>
@@ -99,7 +100,6 @@
             </td>
         </tr>
 </table>
-<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="480" />
 <h3>🔍 Como me encontrar</h3>
 <table border="0">
     <tr>

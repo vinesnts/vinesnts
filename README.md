@@ -99,7 +99,7 @@
             </td>
         </tr>
 </table>
-<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="480" />
+<img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="480" />
 <h3>🔍 Como me encontrar</h3>
 <table border="0">
     <tr>

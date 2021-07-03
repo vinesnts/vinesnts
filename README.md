@@ -5,20 +5,20 @@
     astronomia.
 </p>
 <h3>👨‍💻 Minhas habilidades</h3>
-<table border="0" width="100%">
+<table border="0">
         <tr>
-            <td align="center" width="33%">
+            <td align="center">
                 <h4>💻 Frontend</h4>
             </td>
-            <td align="center" width="33%">
+            <td align="center">
                 <h4>⚙ Backend</h4>
             </td>
-            <td align="center" width="33%">
+            <td align="center">
                 <h4>🎨 Design</h4>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="33%">
+            <td valign="top">
                 <p>
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="16" height="16" />
                     HTML ❤
@@ -48,7 +48,7 @@
                     jQuery
                 </p>
             </td>
-            <td valign="top" width="33%">
+            <td valign="top">
                 <p>
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="16" height="16" />
                     Python ❤
@@ -81,7 +81,7 @@
                     Falcon
                 </p>
             </td>
-            <td valign="top" width="33%">
+            <td valign="top">
                 <p>
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="16" height="16" />
                     Figma ❤
@@ -100,17 +100,17 @@
         </tr>
 </table>
 <h3>🔍 Como me encontrar</h3>
-<table border="0" width="100%">
+<table border="0">
     <tr>
-        <td align="center" width="50%">
+        <td align="center">
             <h4>👥 Redes sociais</h4>
         </td>
-        <td align="center" width="50%">
+        <td align="center">
             <h4>📞 Contatos</h4>
         </td>
     </tr>
     <tr>
-        <td valign="top" width="50%">
+        <td valign="top">
             <p>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="16" height="16" />
                 <a href="https://linkedin.com/in/vinesnts">LinkedIn</a>
@@ -120,7 +120,7 @@
                 <a href="https://twitter.com/vinesnts">Twitter</a>
             </p>
         </td>
-        <td valign="top" width="50%">
+        <td valign="top">
             <p>
                 ✉ <a href="mailto:contato@viniciusalmeida.dev">contato@viniciusalmeida.dev</a>
             </p>

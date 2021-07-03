@@ -7,7 +7,7 @@
 </p>
 <h3>👨‍💻 Minhas habilidades</h3>
 <ul>
-    <li align="left">
+    <li>
         <h4>Frontend 💻</h4>
         <ul>
             <li>
@@ -40,7 +40,7 @@
             </li>
         </ul>
     </li>
-    <li align="center">
+    <li>
         <h4>Backend ⚙</h4>
         <ul>
             <li>
@@ -76,7 +76,7 @@
             </li>
         </ul>
     </li>
-    <li align="right">
+    <li>
         <h4>Design 🎨</h4>
         <ul>
             <li>
@@ -98,7 +98,7 @@
 </ul>
 <h3>🔍 Como me encontrar</h3>
 <ul>
-    <li align="left">
+    <li>
         <h4>Redes sociais 👥</h4>
         <ul>
             <li>
@@ -111,7 +111,7 @@
             </li>
         </ul>
     </li>
-    <li align="right">
+    <li>
         <h4>Contatos</h4>
         <ul>
             <li>

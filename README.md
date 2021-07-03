@@ -5,11 +5,11 @@
     computador, além disso, sou apaixonado por tecnologia e adoro ouvir e ler sobre
     astronomia.
 </p>
-<h3 style="margin-bottom: 0;">👨‍💻 Minhas habilidades</h3>
-<ul style="display: flex; gap: 5em; margin: 0; padding: 0; list-style-type: none; text-align: center">
-    <li>
+<h3>👨‍💻 Minhas habilidades</h3>
+<ul>
+    <li align="left">
         <h4>Frontend 💻</h4>
-        <ul style="text-align: start; list-style-type: square;">
+        <ul>
             <li>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="16" height="16" />
                 HTML ❤
@@ -40,9 +40,9 @@
             </li>
         </ul>
     </li>
-    <li>
+    <li align="center">
         <h4>Backend ⚙</h4>
-        <ul style="text-align: start; list-style-type: square;">
+        <ul>
             <li>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="16" height="16" />
                 Python ❤
@@ -76,9 +76,9 @@
             </li>
         </ul>
     </li>
-    <li>
+    <li align="right">
         <h4>Design 🎨</h4>
-        <ul style="text-align: start; list-style-type: square;">
+        <ul>
             <li>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="16" height="16" />
                 Figma ❤
@@ -98,7 +98,7 @@
 </ul>
 <h3>🔍 Como me encontrar</h3>
 <ul>
-    <li>
+    <li align="left">
         <h4>Redes sociais 👥</h4>
         <ul>
             <li>
@@ -111,7 +111,7 @@
             </li>
         </ul>
     </li>
-    <li>
+    <li align="right">
         <h4>Contatos</h4>
         <ul>
             <li>

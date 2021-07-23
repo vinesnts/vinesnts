@@ -4,9 +4,13 @@
     programar e criar coisas novas, sou entusiasta de design UI/UX e apaixonado por tecnologia, além disso, adoro ler e aprender sobre
     astronomia.
 </p>
-<img align="right" src="https://media.giphy.com/media/waIb4gha3r6PS/source.gif" width="480" />
-<h3>👨‍💻 Minhas habilidades</h3>
+<!--img align="right" src="https://media.giphy.com/media/waIb4gha3r6PS/source.gif" width="480" -->
 <table border="0">
+    <tr>
+        <td colspan="2">
+            <h3>👨‍💻 Minhas habilidades</h3>
+        </td>
+    </tr>
     <tr>
         <td>
             <h4>💻 Frontend</h4>
@@ -45,8 +49,12 @@
         </td>
     </tr>
 </table>
-<h3>🔍 Como me encontrar</h3>
 <table border="0">
+    <tr border="0">
+        <td colspan="2">
+            <h3>🔍 Como me encontrar</h3>
+        </td>
+    </tr>
     <tr>
         <td>
             <h4>👥 Redes sociais</h4>

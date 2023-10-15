@@ -76,9 +76,9 @@
             <h4>📞 Contatos</h4>
         </td>
         <td valign="middle">
-            <a title="E-mail: contato@viniciusalmeida.dev" href="mailto:contato@viniciusalmeida.dev">✉</a>
+            <a title="E-mail: contato@viniciusalmeida.dev" href="mailto:contato@viniciusalmeida.dev">✉️</a>
             <a title="Whatsapp: +55 81 981645401" href="https://wa.me/message/P2IWW4QTZN7TI1">📞</a>
-            <a title="Site: viniciusalmeida.dev" href="https://viniciusalmeida.dev">🌐</a>
+            <a title="Site: viniciusalmeida.dev" href="https://viniciusalmeida.dev">🌎</a>
         </td>
     </tr>
 </table>

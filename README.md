@@ -1,7 +1,7 @@
 <h2>👋 Oi, Vine aqui!</h2>
 <p>
-    No Front-end trabalho com as principais tecnologias básicas como HTML, CSS e Javascript, além do framework Angular e bibliotecas como Bootstrap e jQuery. <br>
-    No Back-end, tenho experiência com Python, nos frameworks Django e Falcon, além de Java Spring Boot e PHP com Laravel e CodeIgniter. <br>
+    No Front-end trabalho com as principais tecnologias básicas como HTML, CSS e Javascript, além do framework Angular e bibliotecas como Bootstrap e jQuery. <br><br>
+    No Back-end, tenho experiência com Python, nos frameworks Django e Falcon, além de Java Spring Boot e PHP com Laravel e CodeIgniter. <br><br>
     Como Full-Stack, adquiri experiência em gerenciamento de projetos em servidores, usando tecnologias como Apache, httpd, cron e comandos Linux. Além disso, também projeto bancos de dados nos mais conhecidos SGBDs, como Postgres e MySQL.
 </p>
 <!--img align="right" src="https://media.giphy.com/media/waIb4gha3r6PS/source.gif" width="480" -->
@@ -31,7 +31,7 @@
         </td>
         <td valign="middle">
             <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-            <img title="Django" src="https://raw.githubusercontent.com//devicons/devicon/master/icons/django/django-original.svg" alt="django" width="25" height="25" />
+            <img title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="25" height="25" />
             <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25" />
             <img title="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="25" height="25" />
             <img title="Php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />

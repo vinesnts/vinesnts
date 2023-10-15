@@ -27,7 +27,7 @@
     </tr>
     <tr>
         <td>
-            <h4>⚙ Backend</h4>
+            <h4>⚙️ Backend</h4>
         </td>
         <td valign="middle">
             <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
@@ -43,7 +43,7 @@
     </tr>
     <tr>
         <td>
-            <h4>⚙️ Outros</h4>
+            <h4>Outros</h4>
         </td>
         <td valign="middle">
             <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" />

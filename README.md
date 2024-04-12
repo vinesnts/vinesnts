@@ -37,7 +37,7 @@
             <img title="Php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
             <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
             <img title="PostgreSQL" src="https://raw.githubusercontent.com//devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL" width="25" height="25" />
-            <img title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="25" height="25" />
+            <img title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="25" height="25" />
             <img title="CodeIgniter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="25" height="25" />
         </td>
     </tr>
